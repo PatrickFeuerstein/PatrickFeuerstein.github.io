@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Hallo Welt!
 
 ## Welcome to GitHub Pages
