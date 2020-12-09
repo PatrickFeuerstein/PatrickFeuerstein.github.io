@@ -12,4 +12,4 @@ menu3url: ./publications.html
 
 lalala [Publications]({{ layout.menu3url }})
 
-Ich bin ein Arbeitssoziologie.
+Ich bin ein Arbeitssoziologe.
