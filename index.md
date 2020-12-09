@@ -11,5 +11,3 @@ menu3url: ./publications.html
 ## Hallo Welt!
 
 lalala [Publications]({{ layout.menu3url }})
-
-![Mein Bild](./assets/me.jpg) 
