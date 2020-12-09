@@ -10,4 +10,4 @@ menu3url: ./publications.html
 
 ## Hallo Welt!
 
-lalala [test](./cv.md)
+lalala [test]({{ page.menu3url }})
