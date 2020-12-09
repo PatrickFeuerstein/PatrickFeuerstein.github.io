@@ -1,3 +1,12 @@
+---
+menu1: CV
+menu1url: ./cv.html
+menu2: Courses
+menu2url: ./teaching.html
+menu3: Publications
+menu3url: ./publications.html
+---
+
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -26,9 +35,9 @@
       <p>CV</p>
       <p>Lehre</p>
       <p>Publikationen</p>
-      <p><a href="{{ page.menu1url }}">{{ page.menu1 }}</a></p>
-      <p><a href="{{ page.menu2url }}">{{ page.menu2 }}</a></p>
-      <p><a href="{{ page.menu3url }}">{{ page.menu3 }}</a></p>
+      <p><a href="{{ page.menu1url }}">{{ layout.menu1 }}</a></p>
+      <p><a href="{{ page.menu2url }}">{{ layout.menu2 }}</a></p>
+      <p><a href="{{ page.menu3url }}">{{ layout.menu3 }}</a></p>
 
 
         {% if site.github.is_project_page %}
