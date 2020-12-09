@@ -21,9 +21,14 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-      <p>Menupunkt 1</p>
-      <p>Menupunkt 2</p>
-      <p>Menupunkt 3</p>
+
+
+      <p>CV</p>
+      <p>Lehre</p>
+      <p>Publikationen</p>
+      <p><a href="{{ page.menu1url }}">{{ page.menu1 }}</a></p>
+      <p><a href="{{ page.menu2url }}">{{ page.menu2 }}</a></p>
+      <p><a href="{{ page.menu3url }}">{{ page.menu3 }}</a></p>
 
 
         {% if site.github.is_project_page %}
