@@ -11,3 +11,5 @@ menu3url: ./publications.html
 ## Hallo Welt!
 
 lalala [Publications]({{ layout.menu3url }})
+
+Ich bin ein Arbeitssoziologie.
