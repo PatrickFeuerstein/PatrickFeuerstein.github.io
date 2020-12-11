@@ -13,48 +13,48 @@ Göttingen
 **04/2020 – 09/2020**  
 Vorgezogene Vertretung der W2-Professur für Soziologie mit dem Schwerpunkt „Digitalisierung in der Arbeitswelt“ an der Georg-August-Universität Göttingen
 
-**03/2017 – 02/2020**	 
+**03/2017 – 02/2020**  
 Projektleiter des DFG-Projektes (eigene Stelle) „Die Wirkung ganzheitlicher Produktionssysteme auf Arbeitsbedingungen in globalen
 Produktionsnetzwerken“ (zusammen mit Prof. Gary Herrigel, PhD) an der Georg-August-Universität Göttingen (*Habilitationsprojekt*)
 
-**04/2013 – 03/2016**	 
+**04/2013 – 03/2016**  
 Wissenschaftlicher Mitarbeiter im Projekt „Kollaborative Innovationen“ des Soziologischen Forschungsinstituts Göttingen an der Georg-August-Universität (SOFI)
 
-**02/2011 – 02/2020**	 
+**02/2011 – 02/2020**  
 Wissenschaftlicher Mitarbeiter am Institut für Soziologie der Georg-August-Universität Göttingen
 
-**06/2006 – 01/2011**	 
+**06/2006 – 01/2011**  
 Wissenschaftlicher Mitarbeiter im Forschungsprojekt „Die Einbettung des IT-Offshoring“ des Soziologischen Forschungsinstituts Göttingen an der Georg-August-Universität (SOFI)(*Promotionsprojekt*)
 
-**10/2005 – 05/2006**	 
+**10/2005 – 05/2006**  
 Wissenschaftlicher Mitarbeiter im Forschungsprojekt „Neue Institutionen des wissenschaftlichen Publizierens“ des Soziologischen Forschungsinstituts Göttingen an der Georg-August-Universität (SOFI)
 
-**05/2005 – 09/2009**	 
+**05/2005 – 09/2009**  
 Studentische/Wissenschaftliche Hilfskraft am Englischen Seminar der Philosophischen Fakultät der Universität Göttingen am Lehrstuhl für Computerlinguistik (Prof. Dr. Gert Webelhuth), verantwortlich für Serveradministration und Betreuung zentraler Applikationen (Unix, Linux, Windows)
 
-**08/2003 – 12/2004**	 
+**08/2003 – 12/2004**  
 Studentische Hilfskraft im Forschungsprojekt „Grenzen der Entgrenzung“ des Soziologischen Forschungsinstituts Göttingen an der
 Georg-August-Universität (SOFI)
 
-**04/2002 – 09/2003**	 
+**04/2002 – 09/2003**  
 Studentische Hilfskraft bei der Internet Hotline für Studierende (GWDG) der Universität Göttingen, verantwortlich für Nutzerverwaltung und -betreuung in Linux Umgebungen
 
 ## Ausbildung und akademische Grade
 
-**2011**	 
+**2011**  
 Promotion (Dr. disc. pol.) an der Georg-August-Universität Göttingen
 * Dissertationsthema: „Viele Wege führen nach Indien – Reorganisation von Arbeit im Zuge der Internationalisierung der IT-Industrie“
 *	Gutachter: Prof. Dr. Volker Wittke, Prof. Dr. Martin Baethge
 *	Note: summa cum laude (0,0)
 *	Von der Forschungskommission der Sozialwissenschaftlichen Fakultät der Georg-August-Universität Göttingen mit dem Friedrich-Christoph-Dahlmann-Preis für die beste Dissertation im Sommersemester 2011 ausgezeichnet.
 
-**2005** 	
+**2005**  
 Magister Artium (Soziologie/Volkswirtschaftslehre) an der Georg-August-Universität Göttingen
 *	Thema der Magisterarbeit: „Arbeit und Kontrolle in der ‚New Economy’”
 *	Gutachter: PD Dr. Harald Wolf, Prof. Dr. Michael Schumann
 *	Abschlussnote „sehr gut”
 
-**1997** 	
+**1997**  
 Abitur am Gymnasium Schoofmoor in Lilienthal
 *	Note: 1,8
 
@@ -82,20 +82,18 @@ Arbeitsbedingungen führt. Verbesserte Arbeitsbedingungen werden in diesem Fall 
 Als Kooperationspartner war Prof. Gary Herrigel, PhD (University of Chicago, USA) an dem Projekt beteiligt.
 
 ## Konferenzorganisation
-**25./26.02.2016** 	
-
+**25./26.02.2016**  
 Organisation der Abschlusskonferenz des Projekts „Kollaborative Innovationen“ (COLLIN) des Soziologischen Forschungsinstituts Göttingen an der Georg-August-Universität (SOFI) in Göttingen (mit Dr. André Ortiz und Heidemarie Hanekop).
 
 **10. – 12.07.2014**  
-
 Organisation der Mini-Konferenz „The institutional foundations of open and distributed innovation“ im Rahmen des jährlichen Treffens der Society for the Advancement of Socio-Economics (SASE) 2014 in Chicago, IL (mit Dr. Klaus-Peter Buss, Heidemarie Hanekop und Prof. Dr. Jürgen Kädtler).
 
 ## Stipendien und Preise
-**2011**	 
+**2011**  
 Friedrich-Christoph-Dahlmann-Preis für die beste Dissertation im Sommersemester 2011, verliehen von der Forschungskommission der
 Sozialwissenschaftlichen Fakultät der Georg-August-Universität Göttingen.
 
-**08/2009 – 11/2009** 	
+**08/2009 – 11/2009**  
 Forschungsstipendium für einen Aufenthalt an der University of Pune (Indien) im Rahmen des DAAD-Programms „A New Passage to India“
 (6750€).
 
