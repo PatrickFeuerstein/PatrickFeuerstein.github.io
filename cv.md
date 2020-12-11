@@ -50,8 +50,7 @@ Promotion (Dr. disc. pol.) an der Georg-August-Universität Göttingen
 
 **2005** 	
 Magister Artium (Soziologie/Volkswirtschaftslehre) an der Georg-August-Universität Göttingen
-*	Thema der Magisterarbeit: „Arbeit und Kontrolle in der ‚New
-Economy’”
+*	Thema der Magisterarbeit: „Arbeit und Kontrolle in der ‚New Economy’”
 *	Gutachter: PD Dr. Harald Wolf, Prof. Dr. Michael Schumann
 *	Abschlussnote „sehr gut”
 
