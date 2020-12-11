@@ -83,9 +83,11 @@ Als Kooperationspartner war Prof. Gary Herrigel, PhD (University of Chicago, USA
 
 ## Konferenzorganisation
 **25./26.02.2016** 	
+
 Organisation der Abschlusskonferenz des Projekts „Kollaborative Innovationen“ (COLLIN) des Soziologischen Forschungsinstituts Göttingen an der Georg-August-Universität (SOFI) in Göttingen (mit Dr. André Ortiz und Heidemarie Hanekop).
 
 **10. – 12.07.2014**  
+
 Organisation der Mini-Konferenz „The institutional foundations of open and distributed innovation“ im Rahmen des jährlichen Treffens der Society for the Advancement of Socio-Economics (SASE) 2014 in Chicago, IL (mit Dr. Klaus-Peter Buss, Heidemarie Hanekop und Prof. Dr. Jürgen Kädtler).
 
 ## Stipendien und Preise
