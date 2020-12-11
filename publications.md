@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Hier kommt mein Publikationsverzeichnis
+## Ausgewählte Publikationen
 
 Bla
 
