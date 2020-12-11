@@ -10,7 +10,7 @@ layout: default
 Vertretung der Professur für Soziologie mit den Schwerpunkten „Arbeit, Unternehmen und Wirtschaft“ an der Georg-August-Universität
 Göttingen
 
-**04/2020 – 09/2020**	 
+**04/2020 – 09/2020**  
 Vorgezogene Vertretung der W2-Professur für Soziologie mit dem Schwerpunkt „Digitalisierung in der Arbeitswelt“ an der Georg-August-Universität Göttingen
 
 **03/2017 – 02/2020**	 
@@ -74,10 +74,7 @@ Abitur am Gymnasium Schoofmoor in Lilienthal
 ## Selbständig eingeworbene Drittmittel
 
 **2017 - 2020**  
-DFG-Förderung einer eigenen Stelle für das Forschungsprojekt „Die
-Wirkung ganzheitlicher Produktionssysteme auf Arbeitsbedingungen in
-globalen Produktionsnetzwerken“ (Kennziffer: FE 1584/2-1,
-Fördersumme: 410.477 Euro, Laufzeit: 03/2017 – 02/2020)  
+DFG-Förderung einer eigenen Stelle für das Forschungsprojekt „Die Wirkung ganzheitlicher Produktionssysteme auf Arbeitsbedingungen in globalen Produktionsnetzwerken“ (Kennziffer: FE 1584/2-1, Laufzeit: 03/2017 – 02/2020)  
 
 *Kurzbeschreibung*: Die Arbeitsbedingungen von Beschäftigten in Niederlassungen und Zulieferern westlicher transnationaler Unternehmen (TNU) sind seit der Entstehung globaler Produktionsnetzwerke ein drängendes Problem. Gerade in den Niedriglohnregionen der "emerging economies" geht die stärkere Integration in globale Produktionsnetzwerke häufig mit erschreckenden Arbeitsbedingungen für die Beschäftigten einher. Wie in globalen Produktionsnetzwerken bessere Arbeitsbedingungen durchgesetzt werden können, ist daher seit langem Gegenstand der öffentlichen und wissenschaftlichen Debatte. Diese ist bisher dadurch gekennzeichnet, dass vor allem auf freiwillige und private Formen der (Selbst-)Regulierung transnationaler Unternehmen gesetzt wird, die ihre Zulieferer unter Strafandrohungen zur Einhaltung von Arbeitsstandards zwingen sollen. Angesichts der bisherigen empirischen Untersuchungen führt dieser Ansatz jedoch nur begrenzt zum ersehnten Ziel. Das Projekt hat daher eine alternative, vielversprechendere Möglichkeit, die Arbeitsbedingungen in globalen Produktionsnetzwerken zu verbessern, untersucht. Im Anschluss an vorliegende Forschungsergebnisse, analysierte das Projekt, ob Verbesserungen der Arbeitsbedingungen auch durch die Förderung strategischer Kooperation und gemeinsamer Lern- und Abstimmungsprozesse von Zulieferern und Endherstellern durch pragmatische Kollaborationen (wie z.B. im Rahmen IT-gestützter ganzheitlicher Produktionssysteme) erreicht werden können. Eine Verbesserung der Arbeitsbedingungen erfolgt in diesem Fall durch ein Upgrading der Zulieferer, indem diese erweiterte Fähigkeiten und
 Kompetenzen erwerben, was, so die Annahme, auch zu erweiterten Kompetenzanforderungen an die Beschäftigten und verbesserten
