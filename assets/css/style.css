@@ -1,9 +1,0 @@
----
----
-@import "{{ site.theme }};
-
-/* sample code to test it */
-
-a.name {
-font-size: 10px;
-}
