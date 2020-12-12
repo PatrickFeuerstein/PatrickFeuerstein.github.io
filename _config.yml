@@ -12,10 +12,10 @@ defaults:
 
     values:
       menu1: CV
-      menu1url: https://patrickfeuerstein.github.io/cv.html
+      menu1url: "https://patrickfeuerstein.github.io/cv.html"
       menu2: Courses
-      menu2url: https://patrickfeuerstein.github.io/teaching.html
+      menu2url: "https://patrickfeuerstein.github.io/teaching.html"
       menu3: Publications
-      menu3url: https://patrickfeuerstein.github.io/publications.html
+      menu3url: "https://patrickfeuerstein.github.io/publications.html"
       img: Mein Bild
-      img_url: https://patrickfeuerstein.github.io/assets/me.jpg
+      img_url: "https://patrickfeuerstein.github.io/assets/me.jpg"
