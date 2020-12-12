@@ -5,6 +5,6 @@ layout: default
 ## Überschrift
 
 
-lalala [Publications]({{ layout.menu3url }})
+lalala [Publications]({{ page.menu3url }})
 
 Ich bin ein Arbeitssoziologe.
