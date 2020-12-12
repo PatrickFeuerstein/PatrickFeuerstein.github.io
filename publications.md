@@ -1,11 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 
 ## Ausgewählte Publikationen
-
-Bla
-
-Bla
-
-Bla
