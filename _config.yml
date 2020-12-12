@@ -4,3 +4,18 @@ description: My personal Homepage
 #logo: [Location of the logo]
 show_downloads: false
 #google_analytics: [Your Google Analytics tracking ID]
+
+defaults:
+  -
+    scope:
+      path:""
+
+    values:
+      menu1: CV
+      menu1url: ./cv.html
+      menu2: Courses
+      menu2url: ./teaching.html
+      menu3: Publications
+      menu3url: ./publications.html
+      img: Mein Bild
+      img_url: ./assets/me.jpg
