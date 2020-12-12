@@ -2,9 +2,12 @@
 layout: default
 ---
 
-## Überschrift
-
-
-lalala [Publications]({{ page.menu3url }})
+## Wer ich bin
 
 Ich bin ein Arbeitssoziologe.
+
+## Neugikeiten
+
+{% for post in site.posts %}
+* [{{post.title}}]({{ post.url }})
+{% endfor %}

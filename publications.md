@@ -4,16 +4,8 @@ layout: default
 
 ## Ausgewählte Publikationen neu
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+Bla
 
-## Jetzt in Markdown
+Bla
 
-{% for post in site.posts %}
-* [{{post.title}}]({{ post.url }})
-{% endfor %}
+Bla
