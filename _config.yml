@@ -8,7 +8,7 @@ show_downloads: false
 defaults:
   -
     scope:
-      path:""
+      path: ""
 
     values:
       menu1: CV
