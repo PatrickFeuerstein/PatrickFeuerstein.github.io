@@ -11,11 +11,11 @@ defaults:
       path: ""
 
     values:
-      menu1: CV
+      menu1: Lebenslauf
       menu1url: "https://patrickfeuerstein.github.io/cv.html"
-      menu2: Courses
+      menu2: Lehre
       menu2url: "https://patrickfeuerstein.github.io/teaching.html"
-      menu3: Publications
+      menu3: Publikationen
       menu3url: "https://patrickfeuerstein.github.io/publications.html"
       img: Mein Bild
       img_url: "https://patrickfeuerstein.github.io/assets/me.jpg"
