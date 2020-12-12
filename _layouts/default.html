@@ -19,7 +19,7 @@ layout: default
     <div class="wrapper">
       <header>
 
-        <img src="{{ site.img_url }}" alt="{{ site.img }}">
+        <img src="{{ page.img_url }}" alt="{{ page.img }}">
 
         <h1><a class="name" href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
@@ -29,9 +29,9 @@ layout: default
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-      <p><a href="{{ site.menu1url }}">{{ site.menu1 }}</a></p>
-      <p><a href="{{ site.menu2url }}">{{ site.menu2 }}</a></p>
-      <p><a href="{{ site.menu3url }}">{{ site.menu3 }}</a></p>
+      <p><a href="{{ page.menu1url }}">{{ page.menu1 }}</a></p>
+      <p><a href="{{ page.menu2url }}">{{ page.menu2 }}</a></p>
+      <p><a href="{{ page.menu3url }}">{{ page.menu3 }}</a></p>
 
 
         {% if site.github.is_project_page %}
