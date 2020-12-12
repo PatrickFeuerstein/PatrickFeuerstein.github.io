@@ -2,7 +2,7 @@
 layout: post
 ---
 
-## Ausgewählte Publikationen
+## Ausgewählte Publikationen neu
 
 
   {% for post in site.posts %}
@@ -10,7 +10,7 @@ layout: post
       {{ post.url }} {{ post.title }}
 
   {% endfor %}
-  
+
 
 <ul>
   {% for post in site.posts %}
