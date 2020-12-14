@@ -10,14 +10,28 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.1/css/bulma-rtl.min.css" integrity="sha512-Qg7DT+PJFcLzb4GyNnpT62wKHBzojUVDQf/OvytqnrGDr931W2lfvAiYGz5UnX8dAiVPHFLkySoHXRL/rOeXKA==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.1/css/bulma.css" integrity="sha512-6eqPOYQmUqGh2hFSAKha1dbQlMq1OaxityCVG80dkvGmmLdsAdrAUkgBKDV4fpAT/xOUdkB6uupudSbCwyoJPQ==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.1/css/bulma-rtl.css" integrity="sha512-oPXw7k1slDR4EG3KCH/817rCV31vmNTN8Vt/Ieork943NfsLtiiPV9O1fivxYI0AmA3i5/gXx5L8IY7ZjY8/uw==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/brands.min.css" integrity="sha512-D0B6cFS+efdzUE/4wh5XF5599DtW7Q1bZOjAYGBfC0Lg9WjcrqPXZto020btDyrlDUrfYKsmzFvgf/9AB8J0Jw==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/fontawesome.min.css" integrity="sha512-kJ30H6g4NGhWopgdseRb8wTsyllFUYIx3hiUwmGAkgA9B/JbzUBDQVr2VVlWGde6sdBVOG7oU8AL35ORDuMm8g==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/fontawesome.css" integrity="sha512-qUzMY3p2A7wsZaOjjgE3UaFsM8R0hwxTGcQ/Z4vi3eHWg3J7BTyG+2JxjweaHWFrOkXCyvriwQqFMPCvHJmqyA==" crossorigin="anonymous" />
   </head>
   <body>
-    <div class="wrapper">
-      <header>
+    <div class="container mt-6">
+
+      <div class="columns">
+
+      <!-- Erste Spalte -->
+
+      <div class="column is-one-third">
+
+        <div class="block">
 
         <img src="{{ page.img_url }}" alt="{{ page.img }}">
 
-        <h1><a class="name" href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1 class="is-3"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -25,9 +39,31 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-      <p><a href="{{ page.menu1url }}">{{ page.menu1 }}</a></p>
-      <p><a href="{{ page.menu2url }}">{{ page.menu2 }}</a></p>
-      <p><a href="{{ page.menu3url }}">{{ page.menu3 }}</a></p>
+        </div>
+
+        <!-- Menüleiste -->
+        <div class="block">
+          <ul>
+            <li>Georg-August-Universität Göttingen</li>
+            <li>Institut für Soziologie</li>
+            <li>Platz der Göttinger Sieben 3</li>
+            <li>37073 Göttingen</li>
+            <br>
+            <li><span class="icon mr-3"><i class="fas fa-phone"></i></span>+49 (0)551 39 21659</li>
+            <li><span class="icon mr-3"><i class="fas fa-at"></i></span>pfeuers[at]gwdg.de</li>
+            <li><span class="icon mr-3"><i class="fas fa-home"></i></span><a href="https://www.uni-goettingen.de/de/dr.+patrick+feuerstein/201929.html">Institutsseite</a></li>
+          </ul>
+        </div>
+
+        <hr>
+        <div class="menu block">
+          <p class="menu-label">Menü</p>
+          <ul class="menu-list">
+            <li><a href="{{ page.menu1url }}">{{ page.menu1 }}</a></li>
+            <li><a href="{{ page.menu2url }}">{{ page.menu2 }}</a></li>
+            <li><a href="{{ page.menu3url }}">{{ page.menu3 }}</a></li>
+          </ul>
+        </div>
 
 
         {% if site.github.is_project_page %}
@@ -45,10 +81,20 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
-      </header>
+
+      </div>
+      <!-- </header> -->
+
       <section>
 
-      {{ content }}
+        <div class="column">
+
+        <!-- Content -->
+
+            <div class="block">
+            <p class="content"> {{ content }} </p>
+            </div>
+        </div>
 
       </section>
       <footer>
@@ -69,5 +115,8 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
+
+  </div>
+
   </body>
 </html>
