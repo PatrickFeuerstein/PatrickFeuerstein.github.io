@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Welcome to my Newssection!"
+title:  "Willkommen bei den News"
+author: "Patrick Feuerstein"
 ---
 
 **Hello world**, this is my first Jekyll blog post.
