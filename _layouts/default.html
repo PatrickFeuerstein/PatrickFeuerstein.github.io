@@ -32,13 +32,13 @@
 
         <img src="{{ page.img_url }}" alt="{{ page.img }}">
 
-        <h1 class="title is-4"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1 class="title is-5"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <h2 class="subtitle is-5">{{ site.description | default: site.github.project_tagline }}</h2>
+        <h2 class="subtitle is-5 mb-5">{{ site.description | default: site.github.project_tagline }}</h2>
 
         </div>
 
