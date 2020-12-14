@@ -2,6 +2,7 @@
 layout: post
 title:  "Willkommen bei den News"
 author: "Patrick Feuerstein"
+tags: "News Wichtig"
 ---
 
 **Hello world**, this is my first Jekyll blog post.
