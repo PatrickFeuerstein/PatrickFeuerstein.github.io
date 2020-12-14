@@ -15,6 +15,6 @@ layout: default
 
 {% if page.tags %}
   <div class="tags">
-    <span class="tag">{{ page.tags }}</span>
+    <span class="tag">{{ page.tags | join: "</span> - <span>" }}</span>
   </div>
 {% endif %}
