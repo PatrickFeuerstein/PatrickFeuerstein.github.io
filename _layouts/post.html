@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<small>{{ page.date | date: "%-d %B %Y" }}</small>
+<small>{{ page.date | date: "%-d. %B %Y" }}</small>
 <h1 class="title is-3">{{ page.title }}</h1>
 
 <p class="subtitle is-6">von {{ page.author | default: site.author }}</p>
@@ -15,6 +15,6 @@ layout: default
 
 {% if page.tags %}
   <div class="tags">
-    <span class="tag">{{ page.tags | join: "</span> - <span class="tag">" }}</span>
+    <span class="tag">{{ page.tags }}</span>
   </div>
 {% endif %}
