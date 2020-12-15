@@ -16,7 +16,7 @@ appendix: </span><span class="tag">
 
 {% if page.tags %}
   <div class="tags">
-    <span class="tag"> {{ page.tags | join: "</span><span class='tag'>" }} </span>
-    <span class="tag"> {{ page.tags | join: " layout.appendix "  }} </span>
+    <span class="tag"> {{ page.tags | join: " </span><span class='tag'> " }} </span>
+    <span class="tag"> {{ page.tags | join: " layout.appendix " }} </span>
   </div>
 {% endif %}
