@@ -1,5 +1,6 @@
 ---
 layout: default
+appendix: </span><span class="tag">
 ---
 
 <small>{{ page.date | date: "%-d. %B %Y" }}</small>
@@ -15,6 +16,6 @@ layout: default
 
 {% if page.tags %}
   <div class="tags">
-    <span class="tag"> {{ page.tags | join: "  </span> <span class='tag'> " }} </span>
+    <span class="tag"> {{ page.tags | join: "page.appendix" }} </span>
   </div>
 {% endif %}
