@@ -45,16 +45,6 @@
           <!-- <h2 class="subtitle is-6">{{ site.description | default: site.github.project_tagline }}</h2> -->
         </div>
 
-        <!-- Menüleiste -->
-        <div class="menu">
-          <p class="menu-label">Menü</p>
-          <ul class="menu-list">
-            <li><a href="{{ page.menu1url }}">{{ page.menu1 }}</a></li>
-            <li><a href="{{ page.menu2url }}">{{ page.menu2 }}</a></li>
-            <li><a href="{{ page.menu3url }}">{{ page.menu3 }}</a></li>
-          </ul>
-        </div>
-
         <!-- Adresse -->
         <div>
 
@@ -70,6 +60,15 @@
           </ul>
         </div>
 
+        <!-- Menüleiste -->
+        <div class="menu">
+          <p class="menu-label">Menü</p>
+          <ul class="menu-list">
+            <li><a href="{{ page.menu1url }}">{{ page.menu1 }}</a></li>
+            <li><a href="{{ page.menu2url }}">{{ page.menu2 }}</a></li>
+            <li><a href="{{ page.menu3url }}">{{ page.menu3 }}</a></li>
+          </ul>
+        </div>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
