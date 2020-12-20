@@ -32,17 +32,18 @@
 
         <img src="{{ page.img_url }}" alt="{{ page.img }}">
 
-        <h1 class="title is-5"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-
-        <!-- <h2 class="subtitle is-6 mb-5">{{ site.description | default: site.github.project_tagline }}</h2> -->
-
         </div>
 
-        <div>
+        <div class="my-3">
+
+          <h1 class="title is-5"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+
+          {% if site.logo %}
+            <img src="{{site.logo | relative_url}}" alt="Logo" />
+          {% endif %}
+
+          <!-- <h2 class="subtitle is-6 mb-5">{{ site.description | default: site.github.project_tagline }}</h2> -->
+
           <ul class="is-size-7">
             <li>Georg-August-Universität Göttingen</li>
             <li>Institut für Soziologie</li>
@@ -59,7 +60,7 @@
         <div class="is-divider" data-content="Menü"></div>
 
         <!-- Menüleiste -->
-        <div class="menu">
+        <div class="menu my-3">
           <p class="menu-label">Menü</p>
           <ul class="menu-list">
             <li><a href="{{ page.menu1url }}">{{ page.menu1 }}</a></li>
