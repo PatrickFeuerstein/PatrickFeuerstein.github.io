@@ -43,6 +43,20 @@
           {% endif %}
 
           <!-- <h2 class="subtitle is-6">{{ site.description | default: site.github.project_tagline }}</h2> -->
+        </div>
+
+        <!-- Menüleiste -->
+        <div class="menu">
+          <p class="menu-label">Menü</p>
+          <ul class="menu-list">
+            <li><a href="{{ page.menu1url }}">{{ page.menu1 }}</a></li>
+            <li><a href="{{ page.menu2url }}">{{ page.menu2 }}</a></li>
+            <li><a href="{{ page.menu3url }}">{{ page.menu3 }}</a></li>
+          </ul>
+        </div>
+
+        <!-- Adresse -->
+        <div>
 
           <ul class="is-size-7">
             <li>Georg-August-Universität Göttingen</li>
@@ -53,19 +67,6 @@
             <li><span class="icon mr-3"><i class="fas fa-phone"></i></span>+49 (0)551 39 21659</li>
             <li><span class="icon mr-3"><i class="fas fa-at"></i></span>pfeuers[at]gwdg.de</li>
             <li><span class="icon mr-3"><i class="fas fa-home"></i></span><a href="https://www.uni-goettingen.de/de/dr.+patrick+feuerstein/201929.html">Institutsseite</a></li>
-          </ul>
-        </div>
-
-        <!-- Divider -->
-        <hr class="hr">
-
-        <!-- Menüleiste -->
-        <div class="menu">
-          <p class="menu-label">Menü</p>
-          <ul class="menu-list">
-            <li><a href="{{ page.menu1url }}">{{ page.menu1 }}</a></li>
-            <li><a href="{{ page.menu2url }}">{{ page.menu2 }}</a></li>
-            <li><a href="{{ page.menu3url }}">{{ page.menu3 }}</a></li>
           </ul>
         </div>
 
