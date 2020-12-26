@@ -2,11 +2,11 @@
 layout: default
 ---
 
-## Wer ich bin
+# Wer ich bin
 
 Ich bin ein Arbeitssoziologe.
 
-## Neuigkeiten
+# Neuigkeiten
 
 {% for post in site.posts %}
 * [{{post.title}}]({{ post.url }})

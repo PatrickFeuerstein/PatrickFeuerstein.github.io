@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Ausgewählte Publikationen neu
+# Ausgewählte Publikationen neu
 
 Bla
 
