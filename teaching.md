@@ -2,6 +2,13 @@
 layout: default
 ---
 
+# Lehrphilosophie
+
+Studierende der Soziologie betreten ein sehr komplexes wissenschaftliches Feld verschiedener theoretischer Schulen und Ansätze, in dem die Orientierung zunächst häufig schwerfällt. Das Ziel universitärer Lehre sollte daher meiner Meinung nach darauf zielen, Studierende zu befähigen, sich eigenständig in diesem Feld zu bewegen, indem sie lernen, sich mit zentralen Ansätzen und Positionen der (Arbeits-) Soziologie kritisch auseinanderzusetzen und eine eigene Perspektive zu entwickeln.
+Ich verstehe mich in dieser Hinsicht in meiner Rolle als Lehrender primär als Unterstützer der Studierenden darin, sich im Bereich der (Arbeits-) Soziologie wissenschaftlich zu positionieren. Diese Zielsetzung verlangt zum einen eine gründliche und intensive Kenntnis zentraler Ansätze der Soziologie und zum anderen eine eigenständige und kritische Auseinandersetzung mit deren jeweiligen Grenzen und Beschränkungen.
+So versuche ich in meinen Veranstaltungen stets eine Mischung zwischen gründlicher, intensiver Textarbeit und gemeinsamer, kritischer Reflexion des behandelten Stoffes herzustellen und den Studierenden die Möglichkeit zu geben, eigene Themen, Ideen und Initiativen einzubringen. In meinen Veranstaltungen sehe ich meine Aufgabe vor allem in der angemessenen Auswahl und intensiven Aufbereitung der zu behandeln-den Themen, erwarte aber in der Diskussion und Kritik der vorgestellten Ansätze eine eigenständige und aktive Teilnahme der Studierenden.
+Ich begreife die Lehre als einen sehr zentralen Aspekt meines wissenschaftlichen Tätigkeitsprofils. Zum Einen ermöglicht sie mir die Weitergabe der eigenen Begeisterung für das Fach an junge WissenschaftlerInnen. Zum Anderen stellt sie auch eine wichtige Ergänzung zur eigenen Forschungstätigkeit dar: Ergebnisse und Argumente aus der eigenen Forschung können in den Lehrveranstaltungen einerseits zur kritischen Diskussion gestellt werden, andererseits kann die Interaktion mit den Studieren auch wichtige Impulse und Anregungen für die eigene, weitere Forschungstätigkeit hervor-bringen.
+
 # Engagement für die Lehre
 
 ## Hochschuldidaktische Qualifizierung
