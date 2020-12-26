@@ -13,7 +13,7 @@ defaults:
     values:
       menu1: Lebenslauf
       menu1url: "https://patrickfeuerstein.github.io/cv.html"
-      menu2: Lehre
+      menu2: Lehrportfolio
       menu2url: "https://patrickfeuerstein.github.io/teaching.html"
       menu3: Publikationen
       menu3url: "https://patrickfeuerstein.github.io/publications.html"
